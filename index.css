@@ -1,0 +1,27 @@
+body 
+{
+	text-align: left;
+	margin: 0;
+	padding: 0;
+	
+}
+.header 
+{
+	float: right;
+}
+.header a 
+{
+	margin: 10px;
+}
+.header button
+{
+	padding : 9px;
+	font-size : 15px;
+	font-weight : bold;
+}
+.logo-google img
+{
+	width : 500px;
+	height : 200px;
+	
+}
